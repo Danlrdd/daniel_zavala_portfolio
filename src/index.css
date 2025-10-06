@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import 'tailwindcss';
+
+@theme {
+	--color-night-black: #000814;
+	--color-highlight-blue: #001d3d;
+	--color-regular-blue: #003566;
+	--color-highlight-yellow: #ffc300;
+	--color-regular-yellow: #ffd60a;
+	--font-courier-prime: 'Courier Prime', sans-serif;
+}
+
+/* 
+    * Reglas de estilos
+    Colores
+        Main Background: bg-sky-900
+        Highlight: lime-500
+    
+    contenedores-
+        px: px-4 sm:px-10 lg:px-4
+        py: py-8 sm:py-14 lg:py-20
+
+    gap
+        gap-4 sm:gap-6 lg:gap-8 2xl:gap-10
+
+    textos
+        h1= text-4xl sm:text-4xl lg:text-5xl 2xl:text-6xl font-bold text-white
+        h2= text-xl sm:text-xl lg:text-2xl 2xl:text-3xl font-bold text-white
+        h3= base sm:text-lg lg:text-xl 2xl:text-2xl
+        p= base sm:text-lg lg:text-xl 2xl:text-2xl
+
+*/
