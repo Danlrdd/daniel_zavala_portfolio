@@ -40,7 +40,7 @@ const MyTechnologies = () => {
 							})}
 						</div>
 					</div>
-					<MainButton>
+					<MainButton href={'https://github.com/Danlrdd'}>
 						Visita mi GitHub
 						<span>
 							<svg

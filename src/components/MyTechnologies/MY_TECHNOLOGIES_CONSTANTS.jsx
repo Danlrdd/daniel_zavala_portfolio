@@ -8,8 +8,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z" />
 						<path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z" />
@@ -30,8 +30,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z" />
 						<path fill="#039BE5" d="M24 8L24 39.9 35.2 36.7 37.7 8z" />
@@ -52,8 +52,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path fill="#ffd600" d="M6,42V6h36v36H6z" />
 						<path
@@ -69,8 +69,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#80deea"
@@ -94,8 +94,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#F4511E"
@@ -110,8 +110,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#fff"
@@ -142,8 +142,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#00acc1"
@@ -158,8 +158,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#29b6f6"
@@ -182,8 +182,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#03A9F4"
@@ -206,8 +206,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#e040fb"
@@ -231,8 +231,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path
 							fill="#388e3c"
@@ -263,8 +263,8 @@ export const MY_TECHNOLOGIES_CONSTANTS = [
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 48 48"
-						width="full"
-						height="full"
+						width="100%"
+						height="100%"
 					>
 						<path fill="#d50000" d="M0,15h48v17H24v3H13v-3H0V15z" />
 						<path

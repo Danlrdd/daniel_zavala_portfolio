@@ -4,6 +4,8 @@ const MainButton = ({ children, className = '', href }) => {
 			<a
 				className={`relative z-10 flex w-fit items-center gap-4 px-4 py-2 font-bold text-white sm:text-lg lg:text-xl 2xl:text-2xl ${className}`}
 				href={href}
+				target="_blank"
+				rel="noopener noreferrer"
 			>
 				{children}
 			</a>
