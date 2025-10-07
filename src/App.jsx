@@ -3,7 +3,7 @@ import Aside from './components/Aside/Aside';
 
 function App() {
 	return (
-		<main className="font-courier-prime min-h-screen bg-sky-900">
+		<main className="min-h-screen bg-gradient-to-r from-sky-900 to-gray-900">
 			<div className="relative mx-auto grid max-w-7xl lg:grid-cols-2">
 				<Header />
 				<Aside className="lg:col-start-2" />
